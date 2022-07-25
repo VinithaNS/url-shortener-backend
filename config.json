@@ -1,0 +1,8 @@
+{
+    "shortURLCodeLength": 5,
+    "adminPortalUsername": "admin",
+    "adminPortalPassword": "admin123",
+    "defaultRedirectIfNoCodeProvided": "https://shortener.up.railway.app",
+    "alerts": true,
+    "alertsAPIURL": ""
+}
